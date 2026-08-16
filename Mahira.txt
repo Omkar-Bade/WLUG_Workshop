@@ -1,0 +1,47 @@
+WLUG Workshop - Session Learnings
+
+Name: Mahira Shikalgar
+
+1. Linux
+- Learned the basics of Linux.
+- Learned how to work with the terminal.
+- Learned basic Linux commands.
+- Learned how to create and manage directories and files.
+
+2. Git
+- Learned what Git is and why version control is useful.
+- Learned how to initialize and work with a Git repository.
+- Learned how to clone a repository.
+- Learned how to create and switch between branches.
+- Learned how to check changes using git status.
+
+3. GitHub
+- Learned how GitHub is used to host Git repositories.
+- Learned how to fork a repository.
+- Learned how to connect GitHub with VS Code.
+- Learned how to push changes to GitHub.
+
+4. Collaboration
+- Learned how branches allow us to work without changing the main branch.
+- Learned how to make changes in our own branch.
+- Learned how to create a Pull Request.
+- Learned how GitHub supports open-source collaboration.
+
+5. Commands Practiced
+- git clone
+- git status
+- git branch
+- git checkout
+- git add
+- git commit
+- git push
+
+6. Basics of Open Source
+
+- Learned that open-source software is software whose source code is available for people to view, use, modify, and contribute to.
+- Learned how open-source projects allow developers from different places to collaborate.
+- Learned that Git and GitHub are commonly used for managing and contributing to open-source projects.
+- Learned about repositories, branches, commits, and Pull Requests.
+- Learned that a Pull Request is used to propose changes to a project.
+- Learned that contributors can work on their own branch without directly changing the main branch.
+- Understood the importance of collaboration, communication, and version control in open-source projects.
