@@ -1,0 +1,58 @@
+# WLUG Workshop – Session Learnings
+
+Name: Ritu Awalkar
+Workshop: Git, GitHub & Open Source
+
+## 1. Linux
+
+* Learned the basics of Linux and how to work with the terminal.
+* Practiced basic Linux commands.
+* Learned how to create, manage, and navigate directories and files.
+
+## 2. Git
+
+* Learned what Git is and why version control is useful.
+* Learned how to initialize and work with a Git repository.
+* Learned how to clone a repository.
+* Learned how to create and switch between branches.
+* Learned how to check changes using `git status`.
+
+## 3. GitHub
+
+* Learned how GitHub is used to host Git repositories.
+* Learned how to fork a repository.
+* Learned how to connect GitHub with VS Code.
+* Learned how to push changes to GitHub.
+
+## 4. Collaboration and Pull Requests
+
+* Learned how branches allow us to work on changes without directly modifying the main branch.
+* Learned how to make changes in our own branch.
+* Learned how to commit and push our changes.
+* Learned how to create a Pull Request (PR).
+* Understood how Pull Requests are used to propose and review changes before they are merged.
+* Learned how GitHub helps developers collaborate on projects.
+
+## 5. Git Commands Practiced
+
+* `git clone`
+* `git status`
+* `git branch`
+* `git checkout`
+* `git add`
+* `git commit`
+* `git push`
+
+## 6. Basics of Open Source
+
+* Learned that open-source software is software whose source code is available for people to view, use, modify, and contribute to.
+* Learned how developers from different places can collaborate on open-source projects.
+* Learned that Git and GitHub are commonly used to manage and contribute to open-source projects.
+* Learned about repositories, branches, commits, and Pull Requests.
+* Understood that a Pull Request is used to propose changes to an open-source project.
+* Learned that contributors can work on their own branches without directly changing the main branch.
+* Understood the importance of collaboration, communication, and version control in open-source development.
+
+## Overall Learning
+
+The workshop helped me understand the basic workflow of Git and GitHub and how they are used in open-source projects. I also learned how to create branches, make changes, push them to GitHub, and send a Pull Request for collaboration and review.
