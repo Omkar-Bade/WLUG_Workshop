@@ -1,0 +1,18 @@
+1. Git vs GitHub
+2. Git installation and setup
+3. Basic Git commands
+4. Creating repositories
+5. Cloning repositories
+6. Tracking changes
+7. Making commits
+8. Pushing and pulling code
+9. Creating branches
+10. Merging branches
+11. Resolving conflicts
+12. Using .gitignore
+13. Forking repositories
+14. Creating pull requests
+15. Open-source contribution
+16. GitHub collaboration
+17. Version control
+18. Repository management
