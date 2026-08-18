@@ -1,0 +1,13 @@
+WLUG Workshop – Session Learnings
+
+Name: Anjali Mali
+
+The WLUG workshop provided an introduction to Git, GitHub, version control, and open-source collaboration. The session explained how developers can work together on projects, maintain different versions of code, and contribute their changes without directly modifying the original repository.
+During the session, I learned about the difference between Git and GitHub. Git is a version control system used to track changes in files and manage different versions of a project, while GitHub is a cloud-based platform that allows developers to store repositories, collaborate with others, and contribute to open-source projects.
+I learned how to fork an existing GitHub repository. Forking creates a personal copy of another person's repository under our GitHub account. This allows us to make changes safely without affecting the original repository.
+I also learned about branches. A branch allows us to work on a new feature or make changes separately from the main branch. For this workshop, I created my own branch where I could add my session learning file.
+The session also introduced the basic Git workflow. I learned how to clone a repository to my local computer, make changes to files, stage those changes using Git, and create commits. A commit is used to save a set of changes with a meaningful message so that the history of the project can be tracked.
+I learned how to push my branch and its changes to GitHub. Pushing uploads the commits from the local repository to the remote GitHub repository, making the changes available online.
+Another important concept I learned was Pull Requests (PRs). A Pull Request is used to propose changes from one branch or fork to the original repository. Other contributors can review the changes before they are merged into the main project.
+The workshop helped me understand how open-source contribution works in a practical way. I learned the complete process of forking a repository, creating a branch, adding a file, committing the changes, pushing the branch, and creating a Pull Request.
+Overall, the session gave me practical knowledge of Git and GitHub and helped me understand how version control and collaboration are used in real-world software development projects.
