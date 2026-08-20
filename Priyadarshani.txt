@@ -1,0 +1,8 @@
+The Valuable things I learnt in  this session, 
+1. What is a version control system.And hoe git is a part of it
+2. GitHub is used to store and collaborate on repositories.
+3. A repository contains project files and their history.
+4. A branch allows us to work on changes separately.
+5. A commit records changes made to files.
+6. How we can merge the different branches.
+7. Lastly how to fork a repository.
