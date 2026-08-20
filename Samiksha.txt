@@ -1,0 +1,42 @@
+
+Git, GitHub and Open Source - Session Learnings
+
+I attended a session on Git, GitHub and Open Source organized by DSSA in collaboration with WLUG Sangli.
+
+In this session, I learned the basics of Git, GitHub and Open Source.
+
+I learned that Git is a version control system used to track changes in files and manage different versions of a project.
+
+I learned some basic Git commands such as:
+
+git clone
+
+git status
+
+git add
+
+git commit
+
+git push
+
+git pull
+
+git branch
+
+git checkout
+
+
+I learned about important GitHub concepts such as repositories, forks, branches, commits and pull requests.
+
+A Pull Request is used to submit changes to a repository for review before they are merged.
+
+I also learned about open source and how people can contribute to open-source projects by fixing bugs, adding features and improving documentation.
+
+The basic workflow I learned was:
+
+Fork → Clone → Create Branch → Make Changes → Commit → Push → Pull Request
+
+Overall, the session helped me understand the basics of Git, GitHub and open-source contribution.
+Overall, the session helped me understand the basics of Git, GitHub and open-source contribution.
+
+Thank you to DSSA and WLUG Sangli for organizing this informative session and giving me an opportunity to learn about Git, GitHub and Open Source.
